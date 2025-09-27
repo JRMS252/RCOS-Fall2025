@@ -2,4 +2,4 @@
 
 #printing 'Hello World!'
 
-print("Hello Mars!")
+print("Hello Jupiter!")
